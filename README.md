@@ -1,2 +1,2 @@
-# Projetos
-Projetos desenvolvidos em aula
+# Projetos em Python
+Projetos desenvolvidos em aula de Lógica da programação.
